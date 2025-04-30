@@ -1,7 +1,7 @@
 - 🦋​ Hi, I'm Dalila (she/her)
-- 🌱 I love reading, writing, playing cozy videogames and watching tv shows and movies. I'm a creative INFP with filmmaking background and mother of two black and white cats
+- 🌱 I love reading, writing, playing cozy videogames and watching tv shows and movies. I'm an art enthusiast, a creative INFP with filmmaking background and mother of two black and white cats
 - 🖥️ I’m currently studying Full Stack Development at TheBridge, Bilbao
-- 💞️ I’m looking to collaborate on social, feminist or LGTBIAQ+ friendly projects
+- 💞️ I’m looking for a job in the Web Development area, either BackEnd or FrontEnd. I'd also love to collaborate in feminist and LGTBIAQ+ projects
 - ✉️​ You can reach me at: crdalila@gmail.com
 
 <!---
